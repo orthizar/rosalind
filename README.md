@@ -13,3 +13,4 @@ Make sure you do not blindly copy the provided code. The goal of Rosalind is to 
 - [gc - Computing GC Content](gc/README.md)
 - [hamm - Counting Point Mutations](hamm/README.md)
 - [prot - Translating RNA into Protein](prot/README.md)
+- [subs - Finding a Motif in DNA](subs/README.md)
