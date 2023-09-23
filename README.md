@@ -7,3 +7,4 @@ https://rosalind.info/
 - [iprb - Mendel's First Law](iprb/README.md)
 - [fib - Rabbits and Recurrence Relations](fib/README.md)
 - [gc - Computing GC Content](gc/README.md)
+- [hamm - Counting Point Mutations](hamm/README.md)
