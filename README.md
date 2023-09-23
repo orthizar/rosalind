@@ -1,5 +1,7 @@
 # Rosalind
 https://rosalind.info/
+
+Make sure you do not blindly copy the provided code. The goal of Rosalind is to learn how to solve and implement these solutions yourself.
 ## Index
 - [dna - Counting DNA Nucleotides](dna/README.md)
 - [rna - Transcribing DNA into RNA](rna/README.md)
