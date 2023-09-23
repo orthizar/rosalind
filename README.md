@@ -5,3 +5,4 @@ https://rosalind.info/
 - [rna - Transcribing DNA into RNA](rna/README.md)
 - [revc - Complementing a Strand of DNA](revc/README.md)
 - [iprb - Mendel's First Law](iprb/README.md)
+- [fib - Rabbits and Recurrence Relations](fib/README.md)
