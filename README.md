@@ -6,3 +6,4 @@ https://rosalind.info/
 - [revc - Complementing a Strand of DNA](revc/README.md)
 - [iprb - Mendel's First Law](iprb/README.md)
 - [fib - Rabbits and Recurrence Relations](fib/README.md)
+- [gc - Computing GC Content](gc/README.md)
