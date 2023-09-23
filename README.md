@@ -10,3 +10,4 @@ Make sure you do not blindly copy the provided code. The goal of Rosalind is to 
 - [fib - Rabbits and Recurrence Relations](fib/README.md)
 - [gc - Computing GC Content](gc/README.md)
 - [hamm - Counting Point Mutations](hamm/README.md)
+- [prot - Translating RNA into Protein](prot/README.md)
