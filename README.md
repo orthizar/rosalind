@@ -14,3 +14,4 @@ Make sure you do not blindly copy the provided code. The goal of Rosalind is to 
 - [hamm - Counting Point Mutations](hamm/README.md)
 - [prot - Translating RNA into Protein](prot/README.md)
 - [subs - Finding a Motif in DNA](subs/README.md)
+- [cons - Consensus and Profile](cons/README.md)
